@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Super_shop_Customer\Super_shop_Customer\bin\Debug\Super_shop_Customer.exe.config
+C:\Users\hp\source\repos\Super_shop_Customer\Super_shop_Customer\bin\Debug\Super_shop_Customer.exe
+C:\Users\hp\source\repos\Super_shop_Customer\Super_shop_Customer\bin\Debug\Super_shop_Customer.pdb
+C:\Users\hp\source\repos\Super_shop_Customer\Super_shop_Customer\obj\Debug\Super_shop_Customer.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\Super_shop_Customer\Super_shop_Customer\obj\Debug\Super_shop_Customer.Properties.Resources.resources
+C:\Users\hp\source\repos\Super_shop_Customer\Super_shop_Customer\obj\Debug\Super_shop_Customer.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\Super_shop_Customer\Super_shop_Customer\obj\Debug\Super_shop_Customer.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Super_shop_Customer\Super_shop_Customer\obj\Debug\Super_shop_Customer.exe
+C:\Users\hp\source\repos\Super_shop_Customer\Super_shop_Customer\obj\Debug\Super_shop_Customer.pdb
+C:\Users\hp\source\repos\Super_shop_Customer\Super_shop_Customer\obj\Debug\Super_shop_Customer.Views.CustomerSignup.resources
+C:\Users\hp\source\repos\Super_shop_Customer\Super_shop_Customer\obj\Debug\Super_shop_Customer.Login.resources
+C:\Users\hp\source\repos\Super_shop_Customer\Super_shop_Customer\obj\Debug\Super_shop_Customer.Views.DashBoard.resources
+C:\Users\hp\source\repos\Super_shop_Customer\Super_shop_Customer\obj\Debug\Super_shop_Customer.Views.Order.resources
+C:\Users\hp\source\repos\Super_shop_Customer\Super_shop_Customer\obj\Debug\Super_shop_Customer.Views.Updateprofile.resources
